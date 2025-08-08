@@ -1,0 +1,9 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+# gem "rails"
+
+gem "rubocop-performance", "~> 1.25"
+
+gem "colorize", "~> 1.1"
